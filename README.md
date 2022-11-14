@@ -29,3 +29,4 @@ sudo apt install build-essential python3-colcon-common-extension -y
 
 Yuh!
 
+Officially switches to JAVA due to trobuleshooting errors. 2/22/22.
